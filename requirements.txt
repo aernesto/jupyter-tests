@@ -1,0 +1,5 @@
+numpy
+matplotlib.pyplot
+__future__
+ipywidgets
+IPython.display
