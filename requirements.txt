@@ -1,5 +1,4 @@
 numpy
 matplotlib
-__future__
 ipywidgets
 IPython
