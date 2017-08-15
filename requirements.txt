@@ -1,5 +1,5 @@
 numpy
-matplotlib.pyplot
+matplotlib
 __future__
 ipywidgets
 IPython.display
